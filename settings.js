@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
+global.vcardowner = ['94770308588'] //ur owner number
 global.ownername = "furu official" //ur owner name
 global.ytname = "YT: FURY OFFICIAL" //ur yt chanel name
 global.socialm = "GitHub: FURY-apps" //ur github or insta name
@@ -69,8 +69,8 @@ global.websitex = "https://gamingfuryyt.blogspot.com/" //ur website to be displa
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = "📶 Fury Official 📶" //ur sticker watermark packname
+global.author = "📶 Fury Official 📶" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
